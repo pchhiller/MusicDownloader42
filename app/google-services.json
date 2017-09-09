@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "411896027904",
+    "firebase_url": "https://musicdownloader42.firebaseio.com",
+    "project_id": "musicdownloader42",
+    "storage_bucket": "musicdownloader42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411896027904:android:c8b673749309077e",
+        "android_client_info": {
+          "package_name": "com.awesome.pchhiller.musicdownloader42"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411896027904-2sr9pne6r5tngeg5j5b29e61rmucg8bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesome.pchhiller.musicdownloader42",
+            "certificate_hash": "734d510edaf4f9c7737586890fff8a708f428922"
+          }
+        },
+        {
+          "client_id": "411896027904-4cie2dk1tj6u0ta7nkqo8v8akrk6uc7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjqnTzdSjnWwjxrzs2NnAUPORPW73QD4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411896027904-4cie2dk1tj6u0ta7nkqo8v8akrk6uc7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
